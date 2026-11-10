@@ -1,0 +1,2 @@
+# deriv-market-scanner
+Scan
